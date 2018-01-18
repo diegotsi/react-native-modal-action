@@ -1,0 +1,29 @@
+{
+  "name": "react-native-modal-action",
+  "version": "0.0.1",
+  "description": "Modal action package to show some options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegotsi/react-native-modal-action.git"
+  },
+  "keywords": [
+    "modal",
+    "action",
+    "react",
+    "native",
+    "options",
+    "select",
+    "show",
+    "items"
+  ],
+  "author": "Diego Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegotsi/react-native-modal-action/issues"
+  },
+  "homepage": "https://github.com/diegotsi/react-native-modal-action#readme"
+}
